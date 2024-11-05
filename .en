@@ -1,0 +1,19 @@
+It sounds like you're interested in programming in English! Here’s a quick overview to help:
+
+1. **Programming Languages and Syntax**: Programming languages like Python, Java, and JavaScript have syntax (the rules of writing code) that are typically in English. Keywords like `if`, `else`, `while`, `for`, `print`, and `function` are based on English words, making the code more readable for English speakers.
+
+2. **Documentation**: Most programming documentation, tutorials, and resources are available in English, which is helpful for understanding how code works. Sites like Stack Overflow, GitHub, and official language documentation (e.g., Python.org, Java documentation) primarily use English.
+
+3. **Comments and Variable Naming**: When writing code, it’s common to add comments or name variables in English to make your code more understandable to others (and to yourself later on). For example:
+   ```python
+   # Calculate the total price after discount
+   total_price = price - discount
+   ```
+
+4. **Error Messages**: Most compilers and interpreters generate error messages in English. Understanding these helps with debugging.
+
+5. **Resources for Learning**: Many free resources are available in English, such as Codecademy, freeCodeCamp, and online courses on platforms like Coursera and edX.
+
+6. **Programming Mindset**: Regardless of language, programming involves logical thinking, problem-solving, and understanding algorithmic steps. English simply serves as the common ground for sharing and learning.
+
+If you're new to programming, starting with Python is often recommended, as it’s known for its simple syntax and readability. Let me know if you’d like specific guidance on any programming language or project!
