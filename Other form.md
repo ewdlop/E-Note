@@ -45,4 +45,13 @@ El término "lenguaje E" puede referirse a varios conceptos distintos en diferen
 
 3. **E-Language vs. I-Language en Lingüística**: En teoría lingüística, "E-Language" se refiere al lenguaje externo—comportamiento lingüístico observable—mientras que "I-Language" denota el lenguaje interno, la representación mental del conocimiento lingüístico. citeturn0search1
 
-4. **Lenguaje de Verificación de Hardware E**: Un lenguaje de verificación de hardware utilizado en la automatización del diseño electrónico para verificar la corrección de los diseños de hardware. Soporta características como la generación de estímulos aleatorios y la programación orientada a aspectos. citeturn0search 
+4. **Lenguaje de Verificación de Hardware E**: Un lenguaje de verificación de hardware utilizado en la automatización del diseño electrónico para verificar la corrección de los diseños de hardware. Soporta características como la generación de estímulos aleatorios y la programación orientada a aspectos. citeturn0search
+5. 
+
+Here are the URLs in plain string format:
+
+1. E Programming Language: `https://en.wikipedia.org/wiki/E_%28programming_language%29`
+2. E Language (Mixed Tai–Chinese Language): `https://www.wikiwand.com/en/articles/E_language`
+3. E-Language vs. I-Language in Linguistics: `https://dbpedia.org/page/E_language`
+4. E Hardware Verification Language: `https://pldb.io/concepts/e.html`
+
